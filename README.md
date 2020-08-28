@@ -1,2 +1,5 @@
 # hello-world
-Learning Git from HelloWorld guide
+
+Hi People, 
+
+I'm a newbie trying to learn how does GitHub work.
